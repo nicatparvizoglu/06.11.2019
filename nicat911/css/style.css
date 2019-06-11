@@ -1,0 +1,19 @@
+.panel {
+  border: 1px solid #dddd;
+  padding: 20px; }
+  .panel button {
+    padding: 15px 20px;
+    background: sandybrown;
+    border: none;
+    margin: 10px 0; }
+  .panel .tabContent {
+    padding: 40px 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    opacity: 0;
+    display: none; }
+  .panel .active {
+    opacity: 1 !important;
+    display: block; }
+
+/*# sourceMappingURL=style.css.map */
